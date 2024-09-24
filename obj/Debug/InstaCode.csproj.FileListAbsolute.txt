@@ -1,0 +1,10 @@
+C:\Users\busoi\source\repos\InstaCode\bin\Debug\InstaCode.exe.config
+C:\Users\busoi\source\repos\InstaCode\bin\Debug\InstaCode.exe
+C:\Users\busoi\source\repos\InstaCode\bin\Debug\InstaCode.pdb
+C:\Users\busoi\source\repos\InstaCode\obj\Debug\InstaCode.csproj.AssemblyReference.cache
+C:\Users\busoi\source\repos\InstaCode\obj\Debug\InstaCode.instaCode.resources
+C:\Users\busoi\source\repos\InstaCode\obj\Debug\InstaCode.Properties.Resources.resources
+C:\Users\busoi\source\repos\InstaCode\obj\Debug\InstaCode.csproj.GenerateResource.cache
+C:\Users\busoi\source\repos\InstaCode\obj\Debug\InstaCode.csproj.CoreCompileInputs.cache
+C:\Users\busoi\source\repos\InstaCode\obj\Debug\InstaCode.exe
+C:\Users\busoi\source\repos\InstaCode\obj\Debug\InstaCode.pdb

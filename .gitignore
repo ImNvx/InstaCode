@@ -1,0 +1,40 @@
+# Ignore build output directories
+bin/
+obj/
+
+# Visual Studio files
+.vscode/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.dbmdl
+*.pdb
+
+# Auto-generated files
+*.designer.cs
+
+# Package manager files
+packages/
+*.nupkg
+*.snupkg
+
+# Log files
+*.log
+
+# Ignore build results
+*.dll
+*.exe
+
+# Ignore NuGet packages and lock file
+*.nupkg
+project.lock.json
+project.fragment.lock.json
+.nuget/
+
+# DotNet core files
+*.DS_Store
+*.ide/
+*.log/
+.idea/
